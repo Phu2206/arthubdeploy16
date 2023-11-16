@@ -1,6 +1,6 @@
 spring:
   datasource:
-    url: jdbc:sqlserver://arthubplatform1-server.database.windows.net:1433;database=arthubplatform1-database;user=arthubplatform1-server-admin@arthubplatform1-server;password=O538U4E567D612X4$;encrypt=true;trustServerCertificate=false;hostNameInCertificate=*.database.windows.net;loginTimeout=30;
+    url: jdbc:sqlserver://arthubplatform-server.database.windows.net:1433;database=arthubplatform-database;user=arthubplatform-server-admin@arthubplatform-server;password=8ZI45MZ8T8PW3T6G$;encrypt=true;trustServerCertificate=false;hostNameInCertificate=*.database.windows.net;loginTimeout=30;
   jpa:
     show-sql: true
     hibernate:
